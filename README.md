@@ -1,4 +1,4 @@
-# Week 2 Assignment: Multiplayer Odd/Even Tic-Tac-Toe
+Multiplayer Odd/Even Tic-Tac-Toe
 
 A real-time multiplayer game built with React and WebSockets that demonstrates distributed systems concepts including server authority and operational transforms.
 
